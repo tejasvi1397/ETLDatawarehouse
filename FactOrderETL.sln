@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "FactOrderETL", "FactOrderETL\FactOrderETL.dtproj", "{71E24944-F24B-43BC-ADF1-B504D154798F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71E24944-F24B-43BC-ADF1-B504D154798F}.Development|Default.ActiveCfg = Development
+		{71E24944-F24B-43BC-ADF1-B504D154798F}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96C7FE2E-A86C-407C-B52C-565608349920}
+	EndGlobalSection
+EndGlobal
