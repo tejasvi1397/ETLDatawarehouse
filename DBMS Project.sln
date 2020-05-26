@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "DBMS Project", "DBMS Project\DBMS Project.dtproj", "{15DD217C-FBC3-4757-8654-28DC0BCB2C47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15DD217C-FBC3-4757-8654-28DC0BCB2C47}.Development|Default.ActiveCfg = Development
+		{15DD217C-FBC3-4757-8654-28DC0BCB2C47}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3CAA598-DD6D-4AE0-BAB3-CFD722897F61}
+	EndGlobalSection
+EndGlobal
